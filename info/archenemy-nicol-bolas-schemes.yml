@@ -1,0 +1,16 @@
+---
+object: set
+id: aa50a66a-0eb3-4bb5-acad-bc6c96f98663
+code: oe01
+name: 'Archenemy: Nicol Bolas Schemes'
+uri: https://api.scryfall.com/sets/aa50a66a-0eb3-4bb5-acad-bc6c96f98663
+scryfall_uri: https://scryfall.com/sets/oe01
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoe01&unique=prints
+released_at: '2017-06-16'
+set_type: archenemy
+card_count: 20
+parent_set_code: e01
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/e01.svg?1694404800
